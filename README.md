@@ -1,2 +1,2 @@
 # Demo
-my first Guthub
+my first Github
